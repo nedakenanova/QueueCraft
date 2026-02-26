@@ -24,5 +24,5 @@ Queue management system built with ASP.NET Core Web API.
 - Application layer
 - Web API layer
 
-## 🖥 Frontend
+##  Frontend
 Simple HTML interface that communicates with the API using Fetch.
